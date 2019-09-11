@@ -15,6 +15,8 @@ public class JumpingOnTheCloudsTests {
         assertEquals(4, jumpingOnCloudsBruteForce(new int[]{0, 0, 0, 0, 0, 0, 1, 0}));
         assertEquals(3, jumpingOnCloudsBruteForce(new int[]{0, 1, 0, 0, 0, 1, 0}));
         assertEquals(3, jumpingOnCloudsBruteForce(new int[]{0, 0, 0, 1, 0, 0}));
+
+        assertEquals(4, jumpingOnCloudsBruteForce(new int[]{0, 0, 0, 1, 0, 0, 1, 0}));
     }
 
     @Test
@@ -25,5 +27,7 @@ public class JumpingOnTheCloudsTests {
         assertEquals(4, jumpingOnCloudsOptimized(new int[]{0, 0, 0, 0, 0, 0, 1, 0}));
         assertEquals(3, jumpingOnCloudsOptimized(new int[]{0, 1, 0, 0, 0, 1, 0}));
         assertEquals(3, jumpingOnCloudsOptimized(new int[]{0, 0, 0, 1, 0, 0}));
+
+        assertEquals(4, jumpingOnCloudsOptimized(new int[]{0, 0, 0, 1, 0, 0, 1, 0}));
     }
 }
