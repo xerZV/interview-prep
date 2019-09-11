@@ -3,9 +3,7 @@ package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.CountingValleys.countingValleys;
-import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.SockMerchant.sockMerchantWithMap;
-import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.SockMerchant.sockMerchantWithSet;
+import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.countingValleys.CountingValleys.countingValleys;
 import static org.junit.Assert.assertEquals;
 
 public class CountingValleysTests {

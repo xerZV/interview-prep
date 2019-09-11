@@ -1,10 +1,10 @@
-package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp;
+package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.countingValleys;
 
 public class CountingValleys {
     private static final char DOWN = 'D';
     private static final char UP = 'U';
 
-    static int countingValleys(int n, String s) {
+    public static int countingValleys(int n, String s) {
         int seaLevel = 0, currentLevel = 0, count = 0;
 
         boolean isDownhill = false;
