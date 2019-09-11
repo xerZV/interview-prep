@@ -1,10 +1,10 @@
-package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp;
+package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.repeatedString;
 
 public class RepeatedString {
     private static final char LOWER_CASE_CHAR_A = 'a';
     private static final String LOWER_CASE_STRING_A = "a";
 
-    static long repeatedString(String s, long n) {
+    public static long repeatedString(String s, long n) {
         if (!s.contains(LOWER_CASE_STRING_A))
             return 0;
         else if (s.length() == 1)

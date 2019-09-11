@@ -2,7 +2,7 @@ package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp;
 
 import org.junit.Test;
 
-import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.RepeatedString.repeatedString;
+import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.repeatedString.RepeatedString.repeatedString;
 import static org.junit.Assert.assertEquals;
 
 public class RepeatedStringTests {

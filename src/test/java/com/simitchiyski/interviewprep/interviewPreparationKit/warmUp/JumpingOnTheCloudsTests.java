@@ -2,8 +2,8 @@ package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp;
 
 import org.junit.Test;
 
-import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.JumpingOnTheClouds.jumpingOnCloudsBruteForce;
-import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.JumpingOnTheClouds.jumpingOnCloudsOptimized;
+import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.jumpingOnTheClouds.JumpingOnTheClouds.jumpingOnCloudsBruteForce;
+import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.jumpingOnTheClouds.JumpingOnTheClouds.jumpingOnCloudsOptimized;
 import static org.junit.Assert.assertEquals;
 
 public class JumpingOnTheCloudsTests {

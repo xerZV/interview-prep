@@ -1,4 +1,4 @@
-package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp;
+package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.jumpingOnTheClouds;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class JumpingOnTheClouds {
-    static int jumpingOnCloudsBruteForce(int[] c) {
+    public static int jumpingOnCloudsBruteForce(int[] c) {
         List<Integer> integers = Arrays.stream(c).boxed().collect(Collectors.toList());
         LinkedList<Integer> m = new LinkedList<>();
         int last1Index = integers.lastIndexOf(1);
@@ -36,7 +36,7 @@ public class JumpingOnTheClouds {
         return count;
     }
 
-    static int jumpingOnCloudsOptimized(int[] c) {
+    public static int jumpingOnCloudsOptimized(int[] c) {
         int jumps = 0;
         for (int i = 0; i < c.length - 1; i++) {
             if (i + 2 == c.length || c[i + 2] == 1) {

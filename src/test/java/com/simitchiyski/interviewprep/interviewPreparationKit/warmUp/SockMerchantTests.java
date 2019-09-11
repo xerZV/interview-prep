@@ -3,16 +3,14 @@ package com.simitchiyski.interviewprep.interviewPreparationKit.warmUp;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import java.util.*;
-
-import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.SockMerchant.sockMerchantWithMap;
-import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.SockMerchant.sockMerchantWithSet;
+import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.sockMerchant.SockMerchant.sockMerchantWithMap;
+import static com.simitchiyski.interviewprep.interviewPreparationKit.warmUp.sockMerchant.SockMerchant.sockMerchantWithSet;
 import static org.junit.Assert.assertEquals;
 
 public class SockMerchantTests {
 
-    static int n;
-    static int[] ar;
+    private static int n;
+    private static int[] ar;
 
     @BeforeClass
     public static void beforeClass(){

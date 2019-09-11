@@ -27,8 +27,8 @@ Print a single integer that denotes the number of valleys Gary walked through du
 
 **Sample Input**
 <pre>
-`8
-UDDDUDUU`
+8
+UDDDUDUU
 </pre>
 
 **Sample Output** <br/>
