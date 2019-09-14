@@ -9,7 +9,7 @@ public class LeftRotation {
         if (a == null || d < 0 || d > a.length)
             return null;
 
-        if (d == a.length) {
+        if (d == a.length) { //if the number of rotations = a.length - reverse the array
             //create stream with ints from 0 to a.lenght and then map (get) the element from a with index i
             return IntStream.range(0, a.length).map(i -> a[a.length - i - 1]).toArray();
         }
