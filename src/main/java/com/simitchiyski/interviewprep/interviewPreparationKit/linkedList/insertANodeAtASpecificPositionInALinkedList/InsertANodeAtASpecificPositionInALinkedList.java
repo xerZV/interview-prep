@@ -72,7 +72,7 @@ public class InsertANodeAtASpecificPositionInALinkedList {
         if (node == null)
             return "[]";
 
-        StringBuilder stringBuilder = new StringBuilder().append("[");
+        StringBuilder stringBuilder = new StringBuilder().append('[');
         while (node != null) {
             stringBuilder.append(node.data);
 
@@ -83,7 +83,6 @@ public class InsertANodeAtASpecificPositionInALinkedList {
             }
         }
 
-        System.out.println(stringBuilder);
-        return stringBuilder.append("]").toString();
+        return stringBuilder.append(']').toString();
     }
 }
