@@ -41,4 +41,29 @@ public class NewYearChaos {
 
         return String.valueOf(bribes);
     }
+
+    //need improvements
+    public static String minimumBribesDenny(int[] q) {
+        int bribes = 0;
+        for (int i = 1; i <= q.length; i++) {
+            if (q[i - 1] - i > 2) {
+                return TOO_CHAOTIC;
+            } else if (q[i - 1] - i > 0) {
+                int currentNumber = q[i - 1];
+                int diff = q[i - 1] - i;
+                bribes += diff;
+            } else if (q[i - 1] - i < 0) {
+                int currentNumber = q[i - 1];
+                int diff = q[i - 1] - i;
+                if (q.length - i >= 1) {
+                    int nextDif = q[i] - (i + 1);
+                    if ((diff < 0 && nextDif < 0) && nextDif < diff) {
+                        bribes++;
+                    }
+                }
+            }
+        }
+
+        return String.valueOf(bribes);
+    }
 }
