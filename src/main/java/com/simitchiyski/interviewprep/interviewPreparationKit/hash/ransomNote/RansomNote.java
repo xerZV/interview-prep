@@ -19,7 +19,7 @@ public class RansomNote {
             if (!hs.containsKey(str) || hs.get(str) == 0)
                 return false;
             else {
-                hs.replace(str, hs.get(str) - 1);
+                hs.replace(str, hs.get(str), hs.get(str) - 1);
             }
         }
 
