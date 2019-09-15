@@ -12,12 +12,7 @@ public class RansomNote {
 
         Map<String, Integer> hs = new HashMap<>(magazine.length);
         for (String str : magazine) {
-            if (!hs.containsKey(str)) {
-                hs.put(str, 1);
-            } else {
-//                hs.replace(str, hs.get(str), hs.get(str) + 1);
-                hs.merge(str, 1, Integer::sum);
-            }
+            hs.merge(str, 1, Integer::sum);
         }
 
         for (String str : note) {
