@@ -6,6 +6,10 @@ import java.util.Map;
 public class RansomNote {
 
     public static boolean checkMagazine(String[] magazine, String[] note) {
+        if (note.length > magazine.length) {
+            return false;
+        }
+
         Map<String, Integer> hs = new HashMap<>(magazine.length);
         for (String str : magazine) {
             if (!hs.containsKey(str)) {
