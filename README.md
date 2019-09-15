@@ -1,4 +1,4 @@
-<h2 align="center">Contents</h2>
+<h2 align="left">Contents</h2>
 <table>
    <thead>
       <tr>
