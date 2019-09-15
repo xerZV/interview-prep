@@ -1,5 +1,7 @@
 package com.simitchiyski.interviewprep.interviewPreparationKit.linkedList.insertANodeAtASpecificPositionInALinkedList;
 
+import com.simitchiyski.interviewprep.interviewPreparationKit.linkedList.SinglyLinkedListNode;
+
 public class InsertANodeAtASpecificPositionInALinkedList {
 
     // BruteForce Solution

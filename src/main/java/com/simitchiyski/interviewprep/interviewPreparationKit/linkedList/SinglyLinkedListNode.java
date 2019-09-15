@@ -1,4 +1,4 @@
-package com.simitchiyski.interviewprep.interviewPreparationKit.linkedList.insertANodeAtASpecificPositionInALinkedList;
+package com.simitchiyski.interviewprep.interviewPreparationKit.linkedList;
 
 public class SinglyLinkedListNode<T> {
     public T data;

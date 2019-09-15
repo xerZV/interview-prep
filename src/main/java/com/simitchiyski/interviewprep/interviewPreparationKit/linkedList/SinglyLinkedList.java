@@ -1,7 +1,14 @@
-package com.simitchiyski.interviewprep.interviewPreparationKit.linkedList.insertANodeAtASpecificPositionInALinkedList;
+package com.simitchiyski.interviewprep.interviewPreparationKit.linkedList;
 
 import java.util.NoSuchElementException;
 
+/**
+ * When you implement the linked list this way, you need to be a bit careful.
+ * What if multiple objects need a reference to the linked list, and then the head of the linked list changes?
+ * Some objects might still be pointing to the old head.
+ *
+ * @param <T>
+ */
 public class SinglyLinkedList<T> {
     private SinglyLinkedListNode<T> head;
     private SinglyLinkedListNode<T> tail;

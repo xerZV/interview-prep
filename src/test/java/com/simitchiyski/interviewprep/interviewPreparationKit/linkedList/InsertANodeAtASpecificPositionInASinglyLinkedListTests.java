@@ -1,7 +1,5 @@
 package com.simitchiyski.interviewprep.interviewPreparationKit.linkedList;
 
-import com.simitchiyski.interviewprep.interviewPreparationKit.linkedList.insertANodeAtASpecificPositionInALinkedList.SinglyLinkedList;
-import com.simitchiyski.interviewprep.interviewPreparationKit.linkedList.insertANodeAtASpecificPositionInALinkedList.SinglyLinkedListNode;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -9,7 +7,7 @@ import static com.simitchiyski.interviewprep.interviewPreparationKit.linkedList.
 import static org.junit.Assert.*;
 
 
-public class InsertANodeAtASpecificPositionInALinkedListTests {
+public class InsertANodeAtASpecificPositionInASinglyLinkedListTests {
     private static final String EXPECTED = "[16, 13, 1, 7]";
     private static final String EXPECTED1 = "[16, 1, 7]";
     private static final String EXPECTED2 = "[16, 13, 1, 7, 8]";
