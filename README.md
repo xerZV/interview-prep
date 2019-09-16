@@ -83,6 +83,15 @@
       <tr>
          <td align="center">Data Structures</td>
          <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/hash" target="_blank">Hash</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/hash/twoStrings" target="_blank">TwoStrings</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Data Structures</td>
+         <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/linkedList" target="_blank">LinkedList</a>
          </td>
          <td align="center">
