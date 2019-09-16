@@ -77,7 +77,7 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/hash" target="_blank">Hash</a>
          </td>
          <td align="center">
-            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/arrays/ransomNote" target="_blank">RansomNote</a>
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/hash/ransomNote" target="_blank">RansomNote</a>
          </td>
       </tr>
       <tr>
