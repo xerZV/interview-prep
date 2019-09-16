@@ -135,6 +135,15 @@
          </td>
       </tr>
       <tr>
+         <td align="center">Data Structures</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/heap" target="_blank">Heap</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/heap/minHeap/MinHeap.java" target="_blank">MinHeap</a>
+         </td>
+      </tr>
+      <tr>
          <td align="center">Strings</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/stringManipulation" target="_blank">String Manipulation</a>
@@ -177,6 +186,24 @@
          </td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/sorting/bubbleSort/BubbleSort.java" target="_blank">BubbleSort</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Sorting</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/sorting" target="_blank">Sorting</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/sorting/quickSort/QuickSortImpl.java" target="_blank">QuickSort</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Sorting</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/sorting" target="_blank">Sorting</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/sorting/mergeSort/MergeSortImpl.java" target="_blank">MergeSort</a>
          </td>
       </tr>
       <tr>
