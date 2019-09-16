@@ -161,5 +161,23 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/warmUp/repeatedString" target="_blank">RepeatedString</a>
          </td>
       </tr>
+      <tr>
+         <td align="center">Sorting</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/sorting" target="_blank">Sorting</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/sorting/bubbleSort/BubbleSort.java" target="_blank">BubbleSort</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Search</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/search" target="_blank">Search</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/search/binarySearch/BinarySearchImpl.java" target="_blank">BinarySearch</a>
+         </td>
+      </tr>
       </tbody>
 </table>
