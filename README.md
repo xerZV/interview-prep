@@ -215,5 +215,32 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/search/binarySearch/BinarySearchImpl.java" target="_blank">BinarySearch</a>
          </td>
       </tr>
+      <tr>
+         <td align="center">Design Patterns</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/builder" target="_blank">Builder</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/builder/NutritionFacts.java" target="_blank">Builder</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/builder" target="_blank">Builder</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/builder/fluent/Email.java" target="_blank">Fluent Builder</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/builder" target="_blank">Builder</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/builder/hierarchical/Pizza.java" target="_blank">Hierarchical Builder</a>
+         </td>
+      </tr>
       </tbody>
 </table>
