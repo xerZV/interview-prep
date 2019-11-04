@@ -149,7 +149,7 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/stack" target="_blank">Stack</a>
          </td>
          <td align="center">
-            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/stacl/Stack.java" target="_blank">Stack</a>
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/stack/Stack.java" target="_blank">Stack</a>
          </td>
       </tr>
       <tr>
@@ -310,7 +310,7 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton" target="_blank">Singleton</a>
          </td>
          <td align="center">
-            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton/field/FieldSingeton.java" target="_blank">Field singleton</a>
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton/field/FieldSingleton.java" target="_blank">Field singleton</a>
          </td>
       </tr>
          <td align="center">Design Patterns</td>
