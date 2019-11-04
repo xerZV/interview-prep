@@ -1,6 +1,9 @@
 package com.simitchiyski.interviewprep.crackingTheCodeInterview;
 
-public class BigOExamples {
+public final class BigOExamples {
+
+    private BigOExamples() {
+    }
 
     //Each call adds a level to the stack.
     //1 sum(4)
