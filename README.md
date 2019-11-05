@@ -305,6 +305,7 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton/enumType/EnumSingleton.java" target="_blank">Enum singleton</a>
          </td>
       </tr>
+      <tr>
          <td align="center">Design Patterns</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton" target="_blank">Singleton</a>
@@ -313,12 +314,49 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton/field/FieldSingleton.java" target="_blank">Field singleton</a>
          </td>
       </tr>
+      <tr>
          <td align="center">Design Patterns</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton" target="_blank">Singleton</a>
          </td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton/staticfactory" target="_blank">Factory singleton</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/adapter" target="_blank">Adapter</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/adapter/EmployeeClient.java" target="_blank">Adapter</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/bridge" target="_blank">Bridge</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/bridge/advanced/Printer.java" target="_blank">Bridge</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/decorator" target="_blank">Decorator</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/decorator" target="_blank">Decorator</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/flyweight" target="_blank">Flyweight</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/flyweight/InventorySystem.java" target="_blank">Flyweight</a>
          </td>
       </tr>
       <tr>
