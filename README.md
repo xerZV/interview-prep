@@ -344,10 +344,28 @@
       <tr>
          <td align="center">Design Patterns - Structural</td>
          <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/composite" target="_blank">Composite</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/composite/Menu.java" target="_blank">Composite</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns - Structural</td>
+         <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/decorator" target="_blank">Decorator</a>
          </td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/decorator" target="_blank">Decorator</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns - Structural</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/facade" target="_blank">Facade</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/facade/FacadeJdbcDemo.java" target="_blank">Facade</a>
          </td>
       </tr>
       <tr>
@@ -361,6 +379,15 @@
       </tr>
       <tr>
          <td align="center">Design Patterns - Structural</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/proxy" target="_blank">Proxy</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/proxy" target="_blank">Proxy</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns - Behavioral</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/strategy" target="_blank">Strategy</a>
          </td>
