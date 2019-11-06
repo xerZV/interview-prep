@@ -398,7 +398,7 @@
       <tr>
          <td align="center">Design Patterns - Behavioral</td>
          <td align="center">
-            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer" target="_blank">Strategy</a>
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer" target="_blank">Observer</a>
          </td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer/weather/WeatherData.java" target="_blank">Custom Observer</a>
@@ -407,7 +407,7 @@
       <tr>
          <td align="center">Design Patterns - Behavioral</td>
          <td align="center">
-            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer" target="_blank">Strategy</a>
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer" target="_blank">Observer</a>
          </td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer/observable/WeatherData.java" target="_blank">Observer with Observable</a>
