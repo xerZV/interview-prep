@@ -362,6 +362,15 @@
       <tr>
          <td align="center">Design Patterns</td>
          <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/strategy" target="_blank">Strategy</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/strategy/Duck.java" target="_blank">Strategy</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns</td>
+         <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/di" target="_blank">DI</a>
          </td>
          <td align="center">
