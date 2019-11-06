@@ -234,7 +234,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/builder" target="_blank">Builder</a>
          </td>
@@ -243,7 +243,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/builder" target="_blank">Builder</a>
          </td>
@@ -252,7 +252,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/builder" target="_blank">Builder</a>
          </td>
@@ -261,7 +261,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/prototype" target="_blank">Prototype</a>
          </td>
@@ -270,7 +270,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/prototype" target="_blank">Prototype</a>
          </td>
@@ -279,7 +279,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/factory" target="_blank">Factory</a>
          </td>
@@ -288,7 +288,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/factory" target="_blank">Factory</a>
          </td>
@@ -297,7 +297,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton" target="_blank">Singleton</a>
          </td>
@@ -306,7 +306,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton" target="_blank">Singleton</a>
          </td>
@@ -315,7 +315,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Creational</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/creational/singleton" target="_blank">Singleton</a>
          </td>
@@ -324,7 +324,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Structural</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/adapter" target="_blank">Adapter</a>
          </td>
@@ -333,7 +333,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Structural</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/bridge" target="_blank">Bridge</a>
          </td>
@@ -342,7 +342,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Structural</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/decorator" target="_blank">Decorator</a>
          </td>
@@ -351,7 +351,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Structural</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/structural/flyweight" target="_blank">Flyweight</a>
          </td>
@@ -360,7 +360,7 @@
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Structural</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/strategy" target="_blank">Strategy</a>
          </td>
