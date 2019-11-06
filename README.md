@@ -392,11 +392,29 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/strategy" target="_blank">Strategy</a>
          </td>
          <td align="center">
-            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/strategy/Duck.java" target="_blank">Strategy</a>
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/strategy" target="_blank">Strategy</a>
          </td>
       </tr>
       <tr>
-         <td align="center">Design Patterns</td>
+         <td align="center">Design Patterns - Behavioral</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer" target="_blank">Strategy</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer/weather/WeatherData.java" target="_blank">Custom Observer</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Design Patterns - Behavioral</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer" target="_blank">Strategy</a>
+         </td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/behavioral/observer/observable/WeatherData.java" target="_blank">Observer with Observable</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">DI</td>
          <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/designPatterns/di" target="_blank">DI</a>
          </td>
