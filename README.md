@@ -14,6 +14,15 @@
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/arrays" target="_blank">Arrays</a>
          </td>
          <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/arrays/singleNumber" target="_blank">SingleNumber</a>
+         </td>
+      </tr>
+      <tr>
+         <td align="center">Data Structures</td>
+         <td align="center">
+            <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/arrays" target="_blank">Arrays</a>
+         </td>
+         <td align="center">
             <a href="https://github.com/xerZV/interview-prep/tree/master/src/main/java/com/simitchiyski/interviewprep/interviewPreparationKit/arrays/countPairsWithSum" target="_blank">CountPairsWithSum</a>
          </td>
       </tr>
